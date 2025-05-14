@@ -1,0 +1,21 @@
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore common development files
+node_modules/
+build/
+dist/
+tmp/
+
+# Ignore logs and databases
+*.log
+*.db
+*.sqlite
+
+# Ignore custom files (add your own here)
+# e.g. *.env
